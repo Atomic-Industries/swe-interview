@@ -2,7 +2,8 @@
 
 #### Installation
 gmsh: `sudo apt install gmsh`
-meshio: `pip install meshio[all]
+
+meshio: `pip install "meshio[all]"`
 
 
 #### Loading a mesh
